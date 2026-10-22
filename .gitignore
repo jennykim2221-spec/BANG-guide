@@ -1,0 +1,11 @@
+.openai/
+.env
+.env.*
+!.env.example
+.aws/
+.ssh/
+.npmrc
+*.pem
+*.key
+credentials.json
+node_modules/
